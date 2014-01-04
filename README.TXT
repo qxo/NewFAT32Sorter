@@ -2,6 +2,25 @@
 BUILD OUTPUT DESCRIPTION
 ========================
 
+Right now, the application copies files from one direction to another. The user 
+decides in which order the files are copied, what leads to a sorted order on a 
+regular FAT32 drive.
+
+
+System requirements:
+ -Java 7
+
+ 
+Built and tested in Microsoft Windows 7, with NetBeans 
+
+
+Start the application:
+- Download and extract the repository
+- Start project with clicking "Projekt1.jar" with mouse or in console 
+java -jar "Projekt1.jar" 
+ 
+ 
+ ============================================================================
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
 files on the projects classpath to your projects dist/lib folder. The IDE
