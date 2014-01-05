@@ -13,22 +13,23 @@ System requirements:
 
  ============================================================================
 
-Built with NetBeans, tested in Microsoft Windows 7.
+Built with NetBeans, tested in Microsoft Windows 7. 
+Using to copy files Apache Commons IO.
 
  ============================================================================
 
 Start the application:
-- Download and extract the repository
-- Start project with clicking "NewFAT32Sorter.jar" with mouse or in console 
-java -jar "NewFAT32Sorter.jar" 
+ - Download and extract the repository
+ - Start application with clicking "NewFAT32Sorter.jar" with mouse
  
  ============================================================================
  
  
  ToDo's:
- - Show Output in realtime
- - Save vars in a file
- - make better code (error messages, ...)
+  - Show Output in realtime
+  - Save vars in a file
+  - make better code (error messages, ...)
+  - Work on GUI 
  
  ============================================================================
  
