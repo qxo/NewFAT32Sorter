@@ -8,7 +8,7 @@ Sorts Files on FAT, FAT32 devices, with GUI, easy to use
 05.01.2014
 
 
- ============================================================================
+ ===========================================================================
 
 Right now, the application copies files from one direction to another. The user 
 decides in which order the files are copied, what leads to a sorted order on a 
