@@ -14,6 +14,12 @@ Right now, the application copies files from one direction to another. The user
 decides in which order the files are copied, what leads to a sorted order on a 
 regular FAT32 drive.
 
+
+ - Copies files in a given order
+ - File extension filter
+ - Copies only new files
+ - Subfolders included
+
  ============================================================================
 
 System requirements:
@@ -39,6 +45,7 @@ Start the application:
   - make better code (error messages, ...)
   - Work on GUI 
   - Implement "Fast Sorting" (Move files, instead of copiing them)
+  - User defined exclusion of folders
  
  ============================================================================
  
