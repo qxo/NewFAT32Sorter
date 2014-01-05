@@ -38,6 +38,7 @@ Start the application:
   - Save vars in a file
   - make better code (error messages, ...)
   - Work on GUI 
+  - Implement "Fast Sorting" (Move files, instead of copiing them)
  
  ============================================================================
  
