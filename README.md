@@ -5,7 +5,7 @@ Sorts Files on FAT, FAT32 devices, with GUI, easy to use
 
 
 
-05.01.2014
+11.01.2014
 
 ==============
 
@@ -18,6 +18,7 @@ regular FAT32 drive.
  - File extension filter
  - Copies only new files
  - Subfolders included
+ - Saves user input in a text file
 
 ==============
 
@@ -26,8 +27,8 @@ System requirements:
 
 ==============
 
-Built with NetBeans, tested in Microsoft Windows 7. 
-Using to copy files Apache Commons IO.
+Built with Net Beans, tested in Microsoft Windows 7. 
+Using Apache Commons IO to copy files.
 
 ==============
 
@@ -40,7 +41,6 @@ Start the application:
  
  ToDo's:
   - Show Output in realtime
-  - Save vars in a file
   - make better code (error messages, ...)
   - Work on GUI 
   - Implement "Fast Sorting" (Move files, instead of copiing them)
