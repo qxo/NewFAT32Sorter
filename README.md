@@ -40,10 +40,10 @@ Start the application:
  
  
  ToDo's:
-  - Show Output in realtime
+  - Show Output in real-time
   - make better code (error messages, ...)
   - Work on GUI 
-  - Implement "Fast Sorting" (Move files, instead of copiing them)
+  - Implement "Fast Sorting" (Move files, instead of copying them)
   - User defined exclusion of folders
  
 ==============
