@@ -7,9 +7,9 @@ Sorts Files on FAT, FAT32 devices, with GUI, easy to use
 ==============
 04.02.2014
 
-So, it turns out, that there is a little problem to build a "fast-sorting" funtion with a file-moving function. It seems that windows controlls the moving process and sorts the files as usual in a confusing way.
+So, it turns out, that there is a little problem to build a "fast-sorting" funtion with a file-moving function. It seems that windows controls the moving process and sorts the files as usual in a confusing way.
 
-So far, copying all files is the only solution to creat a sorted file order.
+So far, copying all files is the only solution to create a sorted file order.
 
 
 
