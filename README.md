@@ -4,10 +4,18 @@ NewFAT32Sorter
 Sorts Files on FAT, FAT32 devices, with GUI, easy to use
 
 
+==============
+04.02.2014
 
-11.01.2014
+So, it turns out, that there is a little problem to build a "fast-sorting" funtion with a file-moving function. It seems that windows controlls the moving process and sorts the files as usual in a confusing way.
+
+So far, copying all files is the only solution to creat a sorted file order.
+
+
 
 ==============
+11.01.2014
+
 
 Right now, the application copies files from one direction to another. The user 
 decides in which order the files are copied, what leads to a sorted order on a 
@@ -17,8 +25,9 @@ regular FAT32 drive.
  - Copies files in a given order
  - File extension filter
  - Copies only new files
+ - File dates (creation, accessed, modified) are copied to the new files if possible
  - Subfolders included
- - Saves user input in a text file
+ - Saves most user input in a text file
 
 ==============
 
@@ -28,7 +37,7 @@ System requirements:
 ==============
 
 Built with Net Beans, tested in Microsoft Windows 7. 
-Using Apache Commons IO to copy files.
+Using Apache Commons IO to copy and move files.
 
 ==============
 
