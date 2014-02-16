@@ -4,6 +4,13 @@ NewFAT32Sorter
 Sorts Files on FAT, FAT32 devices, with GUI, easy to use
 
 ==============
+System requirements:
+ - Java 7
+
+Built with Net Beans, tested in Microsoft Windows 7. 
+Using Apache Commons IO to copy and move files.
+
+==============
 16.02.2014
 - Built a windows-only and experimental "sort button". Experimental, because a timer waits till windows moves a file by cmd commands and it's possible, that the time window is to short.
 
@@ -34,15 +41,6 @@ regular FAT32 drive.
  - Subfolders included
  - Saves most user input in a text file
 
-==============
-
-System requirements:
- - Java 7
-
-==============
-
-Built with Net Beans, tested in Microsoft Windows 7. 
-Using Apache Commons IO to copy and move files.
 
 ==============
 
