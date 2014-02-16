@@ -1,4 +1,4 @@
-NewFAT32Sorter        Download ---->
+NewFAT32Sorter     ---   Download ---->
 ==============
 
 Sorts Files on FAT, FAT32 devices, with GUI, easy to use
