@@ -5,7 +5,7 @@ Sorts Files on FAT, FAT32 devices, with GUI, easy to use
 
 ==============
 16.02.2014
-- Built a windows-only and experimental "sort button". Experimental, because a timer waits till windows moves a file by cmd commands and it's possible, that the time is to short. But it works on my PC.
+- Built a windows-only and experimental "sort button". Experimental, because a timer waits till windows moves a file by cmd commands and it's possible, that the time window is to short.
 
 - Added "About" for Apache Commons license
 
