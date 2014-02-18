@@ -3,6 +3,8 @@ NewFAT32Sorter
 
 Sorts Files on FAT, FAT32 devices, with GUI, easy to use
 
+Link: https://github.com/stsax/NewFAT32Sorter/archive/master.zip
+
 ==============
 System requirements:
  - Java 7
