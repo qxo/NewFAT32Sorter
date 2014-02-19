@@ -13,6 +13,9 @@ Built with Net Beans, tested in Microsoft Windows 7.
 Using Apache Commons IO to copy and move files.
 
 ==============
+19.02.2014
+- File moving should work now in a sorted order.
+==============
 16.02.2014
 - Built a windows-only and experimental "sort button". Experimental, because a timer waits till windows moves a file by cmd commands and it's possible, that the time window is to short.
 
