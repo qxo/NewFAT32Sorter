@@ -13,6 +13,13 @@ Built with Net Beans, tested in Microsoft Windows 7.
 Using Apache Commons IO to copy and move files.
 
 ==============
+02.03.2014
+- Various improvements
+- Better performance on slow devices
+- Checks temp folder before deleting
+- Empty file-extension-filter allowed ( all files are sorted )
+
+==============
 19.02.2014
 - File moving should work now in a sorted order.
 
