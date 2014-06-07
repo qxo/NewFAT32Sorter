@@ -3,7 +3,8 @@ NewFAT32Sorter
 
 Sorts Files on FAT, FAT32 devices, with GUI, easy to use
 
-Link: https://github.com/stsax/NewFAT32Sorter/archive/master.zip
+Download: https://github.com/stsax/NewFAT32Sorter/archive/master.zip
+- start NewFAT32Sorter.jar
 
 Bugs to: sorter@e.mail.de
 
@@ -63,13 +64,6 @@ regular FAT32 drive.
 
 
 ==============
-
-Start the application:
- - Download and extract the repository
- - Start application with clicking "NewFAT32Sorter.jar" with mouse
- 
-==============
- 
  
  ToDo's:
   - Find and fix bugs
