@@ -1,5 +1,0 @@
-D:\Musikl
-G:\
-3gp act AIFF aac ALAC amr atrac Au dct dss dvf flac gsm iklax IVS m4a m4p mmf mp3 mpc msv ogg Opus ra rm raw TTA vox wav wma wavpack
-false
-jCheckBox6
