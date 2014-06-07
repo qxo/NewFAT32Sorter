@@ -15,6 +15,10 @@ Built with Net Beans, tested in Microsoft Windows 7.
 Using Apache Commons IO to copy and move files.
 
 ==============
+08.06.2014
+- Finally multi threaded :)
+- Thanks to http://openbook.galileocomputing.de/javainsel9/javainsel_14_002.htm#mjd345a92a4debb2b6c1b71c9da5491844
+==============
 02.03.2014
 - Various improvements
 - Better performance on slow devices
