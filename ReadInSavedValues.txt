@@ -1,0 +1,5 @@
+D:\Musik
+G:\
+Enter File Extensions, e.g.: mp3 wma wav
+false
+jCheckBox6
