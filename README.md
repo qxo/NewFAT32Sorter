@@ -16,6 +16,10 @@ Built with Net Beans, tested in Microsoft Windows 7.
 Using Apache Commons IO to copy and move files.
 
 ==============
+23.08.2014
+- Source code added. Import it as project in NetBeans 8 or 7.
+
+==============
 08.06.2014
 - Finally multi threaded :)
 - Thanks to http://openbook.galileocomputing.de/javainsel9/javainsel_14_002.htm#mjd345a92a4debb2b6c1b71c9da5491844
